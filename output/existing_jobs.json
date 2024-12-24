@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Example Job Title",
+        "company": "Example",
+        "location": "London, England, United Kingdom",
+        "link": "https://uk.linkedin.com/jobs/view/sample_url1234",
+        "description": "This is a made up job description that you would get from a linkedin job listing"
+    },
+    {
+        "title": "Example Job Title",
+        "company": "Example",
+        "location": "Manchester, England, United Kingdom",
+        "link": "https://uk.linkedin.com/jobs/view/sample_url1234",
+        "description": "This is a made up job description that you would get from a linkedin job listing"
+    }
+]
